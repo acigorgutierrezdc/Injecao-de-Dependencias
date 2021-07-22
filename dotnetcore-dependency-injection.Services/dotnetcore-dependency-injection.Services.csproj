@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>dotnetcore_dependency_injection.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dotnetcore-dependency-injection.Repository\dotnetcore-dependency-injection.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
