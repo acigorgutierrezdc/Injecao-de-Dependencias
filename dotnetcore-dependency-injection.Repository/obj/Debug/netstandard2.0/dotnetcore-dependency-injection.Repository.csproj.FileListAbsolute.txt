@@ -1,0 +1,9 @@
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\bin\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.deps.json
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\bin\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.dll
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\bin\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.pdb
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.dll
+C:\Users\Igor\Desktop\Injeção de Dependências\Injecao-de-Dependencias\dotnetcore-dependency-injection.Repository\obj\Debug\netstandard2.0\dotnetcore-dependency-injection.Repository.pdb
