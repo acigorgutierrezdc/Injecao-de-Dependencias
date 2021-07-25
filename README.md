@@ -10,8 +10,11 @@ Falando de injeção de dependencias.
 - Transient, independente, sempre que chamar um objeto ele trará um novo objeto, que é o inverso do singleton.
 
 Singleton: https://docs.microsoft.com/pt-br/dotnet/api/microsoft.extensions.dependencyinjection.servicecollectionserviceextensions.addsingleton?view=dotnet-plat-ext-3.1
+
 Scoped: https://docs.microsoft.com/pt-br/dotnet/api/microsoft.extensions.dependencyinjection.servicecollectionserviceextensions.addscoped?view=dotnet-plat-ext-3.1
+
 Transient: https://docs.microsoft.com/pt-br/dotnet/api/microsoft.extensions.dependencyinjection.servicecollectionserviceextensions.addtransient?view=dotnet-plat-ext-3.1
+
 
 
 #### Link para o vídeo deste exemplo:
